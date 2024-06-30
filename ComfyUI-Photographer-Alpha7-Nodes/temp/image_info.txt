@@ -1,0 +1,4 @@
+Prompt: N/A
+Width: N/Apx
+Height: N/Apx
+Sampler: N/A

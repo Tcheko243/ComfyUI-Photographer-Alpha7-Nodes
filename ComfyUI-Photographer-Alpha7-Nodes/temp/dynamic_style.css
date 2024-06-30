@@ -1,0 +1,29 @@
+
+        body {
+            background-color: #2b2b2b; /* Changez cette couleur de fond */
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            text-align: center;
+        }
+        img {
+            max-width: 90%;
+            max-height: 80vh;
+            border: 1px solid #ffffff;
+        }
+        .metadata {
+            margin-top: 20px;
+        }
+        .metadata h2 {
+            margin-bottom: 10px;
+        }
+        .metadata p {
+            margin: 5px 0;
+        }
+        

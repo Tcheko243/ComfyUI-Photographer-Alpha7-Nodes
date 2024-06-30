@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ComfyViewer</title>
+    <link rel="stylesheet" type="text/css" href="temp/dynamic_style.css">
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden; /* Remove any default margin and scrolling */
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        img {
+            max-width: 100%;
+            max-height: 100%;
+            display: block;
+        }
+
+        .info {
+            max-width: 100%;
+            text-align: center;
+            margin-top: 10px;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img id="currentImage" src="temp/output_image.png" alt="Current Image">
+        <div id="info" class="info"></div>
+    </div>
+
+    <script>
+        function refreshImage() {
+            var imgElement = document.getElementById('currentImage');
+            imgElement.src = imgElement.src + "?" + new Date().getTime(); // Add timestamp to force refresh
+
+            fetch('image_info.txt')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('info').innerText = data;
+                });
+        }
+
+        // Refresh the image and information every 1 second (adjust as needed)
+        setInterval(refreshImage, 1000);
+    </script>
+</body>
+</html>

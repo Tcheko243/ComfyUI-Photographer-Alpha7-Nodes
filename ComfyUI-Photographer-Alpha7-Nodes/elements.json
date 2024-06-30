@@ -1,0 +1,119 @@
+{
+    "opening_phrases": [
+        "The image shows", "This picture depicts", "In the scene, we see", "The artwork illustrates",
+        "Captured in the frame is", "Displayed here is", "The photograph features", "Presented in the image is",
+        "The composition showcases", "Highlighted in this picture is", "Visible in this artwork is",
+        "This image reveals", "The scene displays", "Shown in the picture is", "Portrayed here is",
+        "The image captures", "In this photograph, we notice", "This depiction presents", "The artwork portrays",
+        "The illustration exhibits"
+    ],
+    "subjects": [
+        "a young girl", "a boy", "a young woman", "a young man", "an elderly woman", "an elderly man",
+        "a teenager", "a child", "an infant", "a baby", "a middle-aged woman", "a middle-aged man",
+        "a toddler", "a young boy", "a young lady", "a gentleman", "a lady", "a young child", "a kid",
+        "a youth"
+    ],
+    "hair_styles": [
+        "with curly hair", "with straight hair", "with short hair", "with long hair", "with wavy hair",
+        "with braided hair", "with a bun", "with pigtails", "with dreadlocks", "with a ponytail",
+        "with an afro", "with a mohawk", "with spiky hair", "with a bob cut", "with bangs",
+        "with a pixie cut", "with a crew cut", "with shaved hair", "with a fringe", "with highlights"
+    ],
+    "hair_colors": [
+        "dark blond", "brown", "red", "black", "blond", "grey", "white", "auburn", "chestnut",
+        "golden", "silver", "strawberry blond", "light brown", "dark brown", "platinum blond",
+        "jet black", "ash blond", "mahogany", "caramel", "hazel"
+    ],
+    "clothing_styles": [
+        "a loose, light-colored shirt", "a Victorian dress", "a wool sweater", "a checkered shirt", 
+        "a denim jacket", "a leather coat", "a summer dress", "a school uniform", "a business suit",
+        "a casual t-shirt", "a floral blouse", "a sports jersey", "a formal gown", "a trench coat",
+        "a hoodie", "a traditional kimono", "a beachwear", "a tank top", "a cardigan", "a vest"
+    ],
+    "collars": [
+        "a lace collar", "a high collar", "a round collar", "a ruffled collar", "a peter pan collar",
+        "a mandarin collar", "a v-neck collar", "a turtleneck collar", "a shawl collar", "a notch collar",
+        "a sailor collar", "a wing collar", "a jabot collar", "a revere collar", "a bertha collar",
+        "a nehru collar", "a polo collar", "a crew neck collar", "a convertible collar", "a button-down collar"
+    ],
+    "ambiances": [
+        "in an ambiance reminiscent of classical paintings by old masters", 
+        "in a mysterious and nostalgic ambiance", 
+        "in a warm and intimate ambiance", 
+        "in a dark and dramatic ambiance", 
+        "in a serene and peaceful setting", 
+        "in a vibrant and lively environment", 
+        "in a chaotic and bustling atmosphere", 
+        "in a quiet and contemplative mood", 
+        "in an eerie and haunting scene", 
+        "in a joyful and festive scene", 
+        "in a melancholic and somber tone", 
+        "in a bright and cheerful atmosphere", 
+        "in a cold and wintry setting", 
+        "in a hot and summery landscape", 
+        "in an urban and modern setting", 
+        "in a rural and rustic environment", 
+        "in an exotic and tropical location", 
+        "in a historical and timeless scene", 
+        "in a futuristic and sci-fi context", 
+        "in a natural and organic environment"
+    ],
+    "lightings": [
+        "Soft, dim light illuminates their face", 
+        "The setting sun illuminates the scene", 
+        "Candlelight brightens the room", 
+        "Diffuse lighting highlights the facial features", 
+        "Harsh, direct light casts strong shadows", 
+        "Moonlight softly glows on the subject", 
+        "The warm light of a fireplace illuminates the scene", 
+        "Fluorescent light gives a clinical feel", 
+        "Twinkling fairy lights create a magical effect", 
+        "Spotlights focus on the main subject", 
+        "Ambient light creates a soothing atmosphere", 
+        "A streetlamp casts a golden glow", 
+        "Morning sunlight streams through the windows", 
+        "Studio lighting accentuates every detail", 
+        "Colored lights add a playful tone", 
+        "A chandelier provides elegant lighting", 
+        "Shadowy light creates a mysterious effect", 
+        "The light of dawn gently touches the subject", 
+        "Dramatic backlighting adds depth", 
+        "Overhead lights create a flat, even illumination"
+    ],
+    "backgrounds": [
+        "The background is dark and indistinct", 
+        "The background is bright and blurry", 
+        "The background shows an urban landscape", 
+        "The background shows a dense forest", 
+        "The background depicts a beach scene", 
+        "The background reveals a mountain range", 
+        "The background is a bustling city street", 
+        "The background is a quiet suburban neighborhood", 
+        "The background shows an ancient ruin", 
+        "The background is a modern art gallery", 
+        "The background displays a starry night sky", 
+        "The background is a vibrant marketplace", 
+        "The background shows a tranquil lake", 
+        "The background is a snowy landscape", 
+        "The background depicts an open field", 
+        "The background reveals a historical monument", 
+        "The background is a cozy living room", 
+        "The background is an industrial warehouse", 
+        "The background shows a mystical forest", 
+        "The background is a sunny meadow"
+    ],
+    "accessories": [
+        "wearing a hat", "holding a book", "with a scarf", "holding an umbrella",
+        "wearing glasses", "with a handbag", "holding a cup of coffee", "with a backpack",
+        "wearing a watch", "holding a smartphone", "with a necklace", "wearing earrings",
+        "holding a flower", "wearing a ring", "with a belt", "holding a pen", "wearing gloves",
+        "with a tie", "holding a balloon", "wearing a bracelet"
+    ],
+    "expressions": [
+        "with a thoughtful expression", "smiling softly", "with a serious look", "with an inquisitive gaze",
+        "with a joyful smile", "with a sad expression", "with a curious look", "with a stern face",
+        "with a playful grin", "with an angry look", "with a calm demeanor", "with a surprised expression",
+        "with a focused look", "with a dreamy expression", "with a blank stare", "with a mischievous smile",
+        "with an intense gaze", "with a relaxed expression", "with a confused look", "with a proud stance"
+    ]
+}
